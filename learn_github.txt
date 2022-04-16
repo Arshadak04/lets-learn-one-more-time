@@ -3,3 +3,8 @@ by coding train
 now there is two things 
 one is git - version control system
 github - website where our all the changes stores
+so we know :-
+1. Git 
+2. github
+3. repositry
+4. commit
