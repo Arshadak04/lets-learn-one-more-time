@@ -1,2 +1,5 @@
 i am learning github today
 by coding train 
+now there is two things 
+one is git - version control system
+github - website where our all the changes stores
