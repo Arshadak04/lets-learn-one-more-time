@@ -11,3 +11,6 @@ so we know :-
 5. hesh - it is a identifier for every commit a long text_number_code
 so i am making branch 1 
 we see whats happening
+so i am making branch 2 here
+and lets see what was happening 
+we also merge previous branch
