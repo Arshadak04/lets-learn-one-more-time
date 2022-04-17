@@ -1,4 +1,4 @@
-i am learning github today
+i am learning github today and adding branch3
 by coding train 
 now there is two things 
 one is git - version control system
@@ -9,6 +9,7 @@ so we know :-
 3. repositry
 4. commit
 5. hesh - it is a identifier for every commit a long text_number_code
+branch3
 so i am making branch 1 
 we see whats happening
 we are now on the main branch but now, we include it with
